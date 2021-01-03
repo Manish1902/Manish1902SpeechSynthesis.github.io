@@ -79,8 +79,3 @@ body{
 .custom-select{
 	height: 40px;
 }
-@media(max-width: 767px){
-	body{
-		padding: 15px;
-	}
-}
